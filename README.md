@@ -4,7 +4,7 @@ Excel-based logistics performance analysis with KPIs, visualizations, and insigh
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 This project tracks key logistics metrics to highlight performance gaps and areas for improvement.  
 The dashboard was built in Excel using PivotTables, helper tables, and custom visualizations.  
 
@@ -16,12 +16,12 @@ The dashboard was built in Excel using PivotTables, helper tables, and custom vi
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard Screenshot](Dashboard_Screenshot.JPG)
 
 ---
 
-## 🔑 Features
+##  Features
 - KPI cards for a quick overview of logistics performance  
 - Courier OTIF% % benchmarked against an 80% target (using helper table)  
 - SLA breach % to monitor compliance risk  
@@ -31,7 +31,7 @@ The dashboard was built in Excel using PivotTables, helper tables, and custom vi
 
 ---
 
-## 📂 Files in this Repository
+##  Files in this Repository
 - **Logistics Dashboard sheet.xlsx** → Excel file with dataset, helper tables, and dashboard  
 - **Logistics Performance Project Documentation.pdf** → Detailed documentation of methodology and insights  
 - **Dashboard_Screenshot.JPG** → Preview of the dashboard  
@@ -39,7 +39,7 @@ The dashboard was built in Excel using PivotTables, helper tables, and custom vi
 
 ---
 
-## 📌 Insights
+##  Insights
 - **OTIF**: All couriers perform below the 80% target, with FedEx lowest at 56.1%  
 - **SLA**: 42.5% of shipments breached SLA, posing a risk to compliance and customer satisfaction  
 - **Delays**: Average delays rise in July, indicating seasonal or capacity-driven issues  
@@ -47,7 +47,7 @@ The dashboard was built in Excel using PivotTables, helper tables, and custom vi
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Open the Excel file `Logistics Dashboard sheet.xlsx`  
 2. Explore the KPI cards and charts on the **Dashboard** sheet  
 3. Use slicers/filters (where applicable) to drill into courier, region, or time period  
@@ -55,6 +55,6 @@ The dashboard was built in Excel using PivotTables, helper tables, and custom vi
 
 ---
 
-## 📖 About
+##  About
 This project was created to demonstrate data-driven supply chain performance tracking using Excel.  
 It can be adapted for real-world logistics operations to monitor KPIs and guide decision-making.  
